@@ -2,8 +2,8 @@ import '@mantine/core/styles.css';
 import { MantineProvider, ColorSchemeScript } from '@mantine/core';
 
 export const metadata = {
-	title: 'My Mantine app',
-	description: 'I have followed setup instructions carefully'
+	title: 'Beaver Logs - Coming Soon',
+	description: 'Send logs to the cloud with a drop in replacement to you existing logging methods.'
 };
 
 export default function RootLayout({ children }) {
